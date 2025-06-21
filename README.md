@@ -1,5 +1,5 @@
 Burrows-Wheeler Compression Project
-
+(Project Description and delivary Documents are included in the repository)
 This project implements a lossless data compression and decompression system using three stages:
 
     Burrows-Wheeler Transform (BWT)
@@ -49,3 +49,5 @@ File Structure
     HuffmanCoding.cs: Compress and decompress using Huffman.
 
     HuffmanTreeBuilder.cs, MinHeap.cs, HuffmanNode.cs: Support Huffman coding.
+
+
