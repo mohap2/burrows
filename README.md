@@ -1,5 +1,7 @@
 Burrows-Wheeler Compression Project
+
 (Project Description and delivary Documents are included in the repository)
+
 This project implements a lossless data compression and decompression system using three stages:
 
     Burrows-Wheeler Transform (BWT)
